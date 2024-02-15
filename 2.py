@@ -1,4 +1,3 @@
-
 print("Привет, Python!")
 print("Hello, Python!")
 print("Bonjour Python!")
