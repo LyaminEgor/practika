@@ -1,6 +1,6 @@
 # Функция для составления плейлиста для мамы
 def reverse_playlist(playlist):
-    reversed_playlist = playlist[::-1]  # Используем срез списка для обратного порядка
+    reversed_playlist = playlist[::-1]  #для обратного порядка
     return reversed_playlist
 
 
